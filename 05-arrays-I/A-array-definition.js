@@ -18,6 +18,6 @@ let mixedBag = [30, true, 'apples', null, aVariable];
 /*
 Notes:
 --------
-LOOK AT ALL THIS STUFF
+LOOK AT ALL THIS STUFF!
 
 */
