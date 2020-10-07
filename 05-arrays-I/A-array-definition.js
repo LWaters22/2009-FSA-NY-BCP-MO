@@ -18,5 +18,5 @@ let mixedBag = [30, true, 'apples', null, aVariable];
 /*
 Notes:
 --------
-
+Push to master
 */
